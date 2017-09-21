@@ -1,0 +1,12 @@
+C:\Users\fduval\Source\Repos\IntraExplorer\BuscaAdvogado\BuscaAdvogado\bin\Debug\BuscaAdvogado.exe.config
+C:\Users\fduval\Source\Repos\IntraExplorer\BuscaAdvogado\BuscaAdvogado\bin\Debug\BuscaAdvogado.exe
+C:\Users\fduval\Source\Repos\IntraExplorer\BuscaAdvogado\BuscaAdvogado\bin\Debug\BuscaAdvogado.pdb
+C:\Users\fduval\Source\Repos\IntraExplorer\BuscaAdvogado\BuscaAdvogado\obj\Debug\BuscaAdvogado.csprojResolveAssemblyReference.cache
+C:\Users\fduval\Source\Repos\IntraExplorer\BuscaAdvogado\BuscaAdvogado\obj\Debug\BuscaAdvogado.exe
+C:\Users\fduval\Source\Repos\IntraExplorer\BuscaAdvogado\BuscaAdvogado\obj\Debug\BuscaAdvogado.pdb
+C:\Users\fduval\Documents\GitHub\BuscaAdvogado\BuscaAdvogado\bin\Debug\BuscaAdvogado.exe.config
+C:\Users\fduval\Documents\GitHub\BuscaAdvogado\BuscaAdvogado\obj\Debug\BuscaAdvogado.exe
+C:\Users\fduval\Documents\GitHub\BuscaAdvogado\BuscaAdvogado\obj\Debug\BuscaAdvogado.pdb
+C:\Users\fduval\Documents\GitHub\BuscaAdvogado\BuscaAdvogado\bin\Debug\BuscaAdvogado.exe
+C:\Users\fduval\Documents\GitHub\BuscaAdvogado\BuscaAdvogado\bin\Debug\BuscaAdvogado.pdb
+C:\Users\fduval\Documents\GitHub\BuscaAdvogado\BuscaAdvogado\obj\Debug\BuscaAdvogado.csprojResolveAssemblyReference.cache
